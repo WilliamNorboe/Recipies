@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(90, 121, 126);
+    text-align: center;
+}
+
+.title{
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+.contents{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
